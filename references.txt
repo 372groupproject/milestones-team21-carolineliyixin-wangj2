@@ -1,0 +1,17 @@
+lua resources:
+
+book:
+https://www.lua.org/pil/contents.html
+
+website:
+the evolution of Lua
+https://www.lua.org/doc/hopl.pdf
+
+reference manual:
+https://www.lua.org/manual/5.1/manual.html#2.3
+
+community:
+https://www.reddit.com/r/lua/
+
+Lua projects:
+http://lua-users.org/wiki/LuaProjects
