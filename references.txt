@@ -15,3 +15,6 @@ https://www.reddit.com/r/lua/
 
 Lua projects:
 http://lua-users.org/wiki/LuaProjects
+
+Lua compiler:
+https://www.lua.org/download.html
