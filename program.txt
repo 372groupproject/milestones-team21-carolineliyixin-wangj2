@@ -1,0 +1,3 @@
+Our program will implement a classic snack game that uses our base language Lua to implement the basic algorithms of the game and Java's graphics2d package to display the game, taking the Lua's advantage in writing games projects. We expect the program to have one module building the basic functions and features of the snack game, including change direction, eat, hit, etc. We will have another module build for running the project and key features for display. We expect the program to be approximately 200 lines of code. We think this program will be a good illustration of the feature of our language because our language has advantages in building games where code simplicity and efficiency is emphasized when the language is created.
+
+ 
