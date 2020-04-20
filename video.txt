@@ -1,0 +1,5 @@
+For the video we want to talk about the basic information about the Lua.
+We may talk history, advantage, and some special grammar or data srtucure in the Lua.
+The code samples we want to use is that we write for the milestones.
+Our program is a game, so that we can play it and explain this game.
+We maybe use a power point and run the code on the computer to help us explain the Lua.
