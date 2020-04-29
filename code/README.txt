@@ -21,3 +21,7 @@ p4_module2.lua talks about the way to write local functions in a package and onl
 p4_module3.lua is an example program that write a single "class" BankAccount and defines an attribute and two functions.
 p4_module4.lua is a simple example showing how to write package in a file and use in another file.
 p4_environment.lua talks briefly about a special feature in Lua called the global environment where  the programmer can access all global variables (all functions and libraries).
+
+----------------------------------milestone 5 --------------------------------------
+p5_lexica.lua is the special operator in the lua. 
+p5_nested.lua and p5_nested.java is one of the special thing in lua. It can run inside the java program.
